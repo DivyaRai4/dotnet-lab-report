@@ -1,0 +1,7 @@
+D:\dotnet\Divyaproject1\Divyaproject1\bin\Debug\Divyaproject1.exe.config
+D:\dotnet\Divyaproject1\Divyaproject1\bin\Debug\Divyaproject1.exe
+D:\dotnet\Divyaproject1\Divyaproject1\bin\Debug\Divyaproject1.pdb
+D:\dotnet\Divyaproject1\Divyaproject1\obj\Debug\Divyaproject1.csproj.AssemblyReference.cache
+D:\dotnet\Divyaproject1\Divyaproject1\obj\Debug\Divyaproject1.csproj.CoreCompileInputs.cache
+D:\dotnet\Divyaproject1\Divyaproject1\obj\Debug\Divyaproject1.exe
+D:\dotnet\Divyaproject1\Divyaproject1\obj\Debug\Divyaproject1.pdb
